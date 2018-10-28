@@ -1,0 +1,54 @@
+html {
+    background: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    margin: 0 auto;
+}
+
+h1 {
+    font-size: 72px;
+    font-family: 'Righteous', cursive;
+    color: white;
+    text-align: center;
+    text-shadow: 6px 6px 2px black;
+
+}
+
+.output {
+    font-size: 24px;
+    font-family: 'Righteous', cursive;
+    color: white;
+    text-align: center;
+    text-shadow: 4px 4px 1px black;
+
+}
+
+.container {
+    width: 50%;
+    text-align: center;
+}
+
+button {
+    font-size: 18px;
+    font-family: 'Righteous', cursive;
+    color: white;
+    background-color: midnightblue;
+    text-align: center;
+}
+
+input {
+    font-size: 144px;
+    color: aqua;
+    font-family: 'Righteous', cursive;
+    background-color: black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+    width: 300px;
+    text-align: center;
+    border-color: white;
+    border-width: 12px;
+    text-shadow: 6px 6px 2px black;
+
+}
